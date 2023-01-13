@@ -1,6 +1,6 @@
-### Hi, I'm Glaucio! 👋😊&nbsp;&nbsp;
+### Hi, I'm Glaucio! 👋😊&nbsp;
 
-<br><sup>Experienced in Web Development and Technical Support, involved in technology at least since 2012. I've been working as Front End Developer for the Federal Government since 2021 (in two different projects). I lived in Boston (United States 🇺🇸) for 3,5 years (2017-2020) to improve my English fluency. Nice to meet you!</sup>
+<sup>Experienced in Web Development and Technical Support, involved in technology at least since 2012. I've been working as Front End Developer for the Federal Government since 2021 (in two different projects). I lived in Boston (United States 🇺🇸) for 3,5 years (2017-2020) to improve my English fluency. Nice to meet you!</sup>
 
 ----
 
@@ -8,7 +8,7 @@
 ![javascript](https://img.shields.io/static/v1?logo=Javascript&label=&message=Javascript&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![php](https://img.shields.io/static/v1?logo=PHP&label=&message=PHP&color=36465D&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=Python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 ![databases](https://img.shields.io/static/v1?label=&message=Databases:&color=111&style=flat-square)
 ![MySQL](https://img.shields.io/static/v1?logo=MySQL&label=&message=MySQL&color=36465D&logoColor=AAA&style=flat-square)
 ![PostgreSQL](https://img.shields.io/static/v1?logo=PostgreSQL&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square)
