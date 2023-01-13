@@ -9,6 +9,12 @@
 ![php](https://img.shields.io/static/v1?logo=PHP&label=&message=PHP&color=36465D&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=Python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
+![databases](https://img.shields.io/static/v1?label=&message=Databases:&color=111&style=flat-square)
+![MySQL](https://img.shields.io/static/v1?logo=MySQL&label=&message=MySQL&color=36465D&logoColor=AAA&style=flat-square)
+![PostgreSQL](https://img.shields.io/static/v1?logo=PostgreSQL&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square)
+![SQLite](https://img.shields.io/static/v1?logo=SQLite&label=&message=SQLite&color=36465D&logoColor=AAA&style=flat-square)
+![SQL Server](https://img.shields.io/static/v1?logo=MicrosoftSQLServer&label=&message=SQLServer&color=36465D&logoColor=AAA&style=flat-square)
+
 ![frameworks](https://img.shields.io/static/v1?label=&message=Frameworks:&color=111&style=flat-square)
 ![Angular](https://img.shields.io/static/v1?logo=Angular&label=&message=Angular&color=36465D&logoColor=AAA&style=flat-square)
 ![React](https://img.shields.io/static/v1?logo=React&label=&message=React&color=36465D&logoColor=AAA&style=flat-square)
@@ -18,14 +24,7 @@
 ![Django](https://img.shields.io/static/v1?logo=Django&label=&message=Django&color=36465D&logoColor=AAA&style=flat-square)
 ![WordPress](https://img.shields.io/static/v1?logo=WordPress&label=&message=WordPress&color=36465D&logoColor=AAA&style=flat-square)
 ![Gatsby](https://img.shields.io/static/v1?logo=Gatsby&label=&message=Gatsby&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
 
-![databases](https://img.shields.io/static/v1?label=&message=Databases:&color=111&style=flat-square)
-![MySQL](https://img.shields.io/static/v1?logo=MySQL&label=&message=MySQL&color=36465D&logoColor=AAA&style=flat-square)
-![PostgreSQL](https://img.shields.io/static/v1?logo=PostgreSQL&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square)
-![SQLite](https://img.shields.io/static/v1?logo=SQLite&label=&message=SQLite&color=36465D&logoColor=AAA&style=flat-square)
-![SQL Server](https://img.shields.io/static/v1?logo=MicrosoftSQLServer&label=&message=SQLServer&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
 ![podman](https://img.shields.io/static/v1?logo=podman&label=&message=Podman&color=36465D&logoColor=AAA&style=flat-square)
