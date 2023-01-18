@@ -1,6 +1,6 @@
 ### <br>Hi, I'm Glaucio! 👋😊&nbsp;
 
-<sup>Experienced in Web Development and Technical Support, involved in technology at least since 2012. I've been working as Front End Developer for the Federal Government since 2021 (in two different projects). I lived in Boston (United States 🇺🇸) for 3,5 years (2017-2020) to improve my English fluency. Nice to meet you!</sup>
+<sup>Experienced in Web Development and Technical Support, involved in the IT segment at least since 2012. I've been working as Front End Developer for the Federal Government since 2021 (in two different projects). I lived in Boston (United States 🇺🇸) for 3,5 years (2017-2020) to improve my English fluency. Nice to meet you!</sup>
 
 ----
 
